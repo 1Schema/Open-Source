@@ -2,7 +2,7 @@
 
 This repository contains the 1Schema.com Code provided by Decia LLC as implemented as of late 2016 with minor updates to the export library in early 2017.
 
-This code implements the designs specified in our [System Specification](./IPCOM000255833D.pdf) and our [Reporting Specification](./DeciaLLC_1Schema_Reporting,pdf).
+This code implements the designs specified in our [System Specification](./IPCOM000255833D.pdf) and our [Reporting Specification](./DeciaLLC_1Schema_Reporting.pdf).
 
 Particularly, we provide the following libraries under the [MIT Licenese](./LICENSE): 
 * **Common**: Contains StructuralMap, DependancyMap, and other base level resources
