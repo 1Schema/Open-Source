@@ -1,0 +1,1 @@
+﻿SysDb = db.getSiblingDB("<SYS_DB_NAME>");
